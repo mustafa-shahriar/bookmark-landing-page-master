@@ -23,8 +23,8 @@ Despite these challenges, I am proud of my progress and look forward to further 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mustafa-shahriar/bookmark-landing-page-master)
-- Live Site URL: [Add live site URL here](https://mustafa-shahriar.github.io/bookmark-landing-page-master/)
+-  [Solution URL](https://github.com/mustafa-shahriar/bookmark-landing-page-master)
+-  [Live Site URL](https://mustafa-shahriar.github.io/bookmark-landing-page-master/)
 
 ## My process
 Instead of coding the entire HTML structure at once, I followed a step-by-step approach. I began by coding a portion of the HTML and then proceeded to write the corresponding CSS. This iterative process allowed me to complete the entire project gradually, focusing on small sections at a time. By adopting this method, I was able to avoid the task of writing the entire HTML first and then styling the entire page all at once.
