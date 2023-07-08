@@ -12,8 +12,9 @@
   --p-color:#5f5858b7;
 }
 
-body{
+.wrapper{
   overflow-x: hidden;
+  position: relative;
 } 
 
 .container {
@@ -208,7 +209,7 @@ header nav ul  .loginbtn:hover{
 } 
 
 .styleUnderImage {
-  width: 100%;
+  width: 120%;
   height:80%;
   background-color: #5368DF;
   position: absolute;
@@ -306,7 +307,7 @@ header nav ul  .loginbtn:hover{
 } 
 
 .feature .container .left .stylebelowImage {
-  width: 100%;
+  width: 120%;
   height: 100%;
   background-color: #5368DF;
   position: absolute;
